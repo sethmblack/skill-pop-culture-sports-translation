@@ -1,17 +1,18 @@
 ---
 name: pop-culture-sports-translation
-description: "Translate sports moments into pop culture parallels, making content accessible to casual fans and more memorable for everyone"
+description: Translate sports moments into pop culture parallels, making content accessible to casual fans and more memorable for everyone
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.4708
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - sports
-  - pop-culture
-  - analogy
-  - translation
-  - accessibility
-  - simmons
+- sports
+- pop-culture
+- analogy
+- translation
+- accessibility
+- simmons
 ---
 
 # Pop Culture Sports Translation
